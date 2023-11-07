@@ -1,0 +1,109 @@
+﻿Figure,English,French
+"Figure 1, Figure 3, Figure 4, Figure 5, Figure 6, Figure 7, Figure 8, Figure 9, Figure 10, Figure 11, Figure 14, Figure 15, Figure 16, Figure 17, Figure 18",Less Digitally Intensive,Intensité numérique plus faible
+"Figure 1, Figure 3, Figure 4, Figure 5, Figure 6, Figure 7, Figure 8, Figure 9, Figure 10, Figure 11, Figure 14, Figure 15, Figure 16, Figure 17, Figure 18",More Digitally Intensive,Intensité numérique plus élevée
+Figure 3,Non numérique,Non numérique
+Figure 3,Digital,Numérique
+Figure 3,Skill type,Type de compétence
+Figure 4,Business and management skills,Compétences en affaires et en gestion
+Figure 4,Communication and interaction skills,Compétences en communication et en interaction
+Figure 4,General office-based skills,Compétences administratives générales
+Figure 4,High-tech skills,Compétences hautement technologiques
+Figure 4,Sales and merchandising skills,Compétences de vente et de mise en marché
+Figure 4,Trades skills,Compétences liées aux métiers
+Figure 4,Cluster,Groupe
+Figure 5,Non-digital skills,Compétences non numériques
+"Figure 5, Figure 6, Figure 7, Figure 8, Figure 9, Figure 10, Figure 11, Figure 20, Figure A.1",Cybersecurity & system infrastructure skills,Cybersécurité et infrastructure des systèmes
+"Figure 5, Figure 6, Figure 7, Figure 8, Figure 9, Figure 10, Figure 11, Figure 20, Figure A.1",Workforce digital skills,Compétences numériques générales
+"Figure 5, Figure 6, Figure 7, Figure 8, Figure 9, Figure 10, Figure 11, Figure 20, Figure A.1",Software/product dev & data skills,Développement de logiciels et de produits et gestion de données
+"Figure 5, Figure 6, Figure 7, Figure 8, Figure 9, Figure 10, Figure 11, Figure 20, Figure A.1",Industrial modelling & geospatial software skills,Modélisation industrielle et logiciels géospatiaux
+"Figure 5, Figure 6, Figure 7, Figure 8, Figure 9, Figure 10, Figure 11, Figure 20, Figure A.1",Design & marketing skills,Conception et marketing
+"Figure 5, Figure 6, Figure 7, Figure 8, Figure 9, Figure 10, Figure 11, Figure 20, Figure A.1",Digital sub-cluster,Sous-groupe numérique
+Figure 6,Non-digital High-tech skills,Compétences non numériques – hautes technologies
+Figure 6,Non-High-tech skills,Compétences autres que hautement technologiques
+Figure 7,Non-digital B&M skills,Compétences non numériques – affaires et gestion
+Figure 7,Non-B&M skills,Compétences autres qu’affaires et gestion
+Figure 8,Non-digital General office-based skills,Compétences administratives générales non numériques
+Figure 8,Non-General office-based skills,Compétences autres que administration générale
+Figure 9,Non-digital C&I skills,Compétences non numériques – communication et interaction
+Figure 9,Non-C&I skills,Compétences autres que communication et interaction
+Figure 10,Non-digital Trades skills,Compétences non numériques – métiers
+Figure 10,Non-Trades skills,Compétences autres que métiers
+Figure 11,Non-digital Sales & Merchandising skills,Compétences non numériques – vente et mise en marché
+Figure 11,Non-Sales & Merchandising skills,Compétences autres que vente et mise en marché
+"Figure 12, Figure 13, Figure A.2, Figure A.3",Hybrid skills cluster pairing,Jumelage de groupes de compétences hybrides
+"Figure 12, Figure 13, Figure A.2, Figure A.3",Digital skill in hybrid pair is used in high digital contexts,Compétence numérique de paire hybride utilisée dans des contextes d’intensité numérique élevée
+"Figure 12, Figure 13, Figure A.2, Figure A.3",Non-digital skill in hybrid pair is used in high digital contexts,Compétence non numérique de paire hybride utilisée dans des contextes d’intensité numérique élevée
+Figure 12,Digital General office-based skills and Non-digital Sales and merchandising skills,Compétences administratives générales numériques et compétences de vente et de mise en marché non numériques
+"Figure 12, Figure 13, Figure A.2, Figure A.3",Other hybrid cluster pairs,Autres paires de groupe hybride
+"Figure 14, Figure 15, Figure 16, Figure 17, Figure 18",Other digital skills,Autres compétences numériques
+Figure 13,Digital High-tech skills and Non-digital Business and management skills,Compétences hautement technologiques numériques et compétences en affaires et en gestion non numériques
+"Figure 20, Figure A.1",Digital intensity of skill,Intensité numérique de la compétence
+"Figure 20, Figure 21, Figure A.1",Growth (percentage change in number of occurrences in job postings),Croissance (variation en pourcentage du nombre d’occurrences dans les offres d’emploi)
+"Figure 20, Figure 21",Artificial Intelligence (AI),Intelligence artificielle
+Figure 20,C++,C++
+Figure 20,Computer terminals,Terminaux d’ordinateur
+Figure 20,Cisco Systems WebEx,Systèmes Cisco WebEx
+Figure 20,Google Sheets,Google Sheets
+Figure 20,C#,C#
+Figure 20,Microsoft Power BI,Microsoft Power BI
+Figure 20,Desktop computers,Ordinateurs de bureau
+Figure 20,Digital Marketing,Marketing numérique
+Figure 20,Salesforce CRM,Plateforme de GRC de Salesforce
+Figure 20,Microsoft Azure,Microsoft Azure
+Figure 20,Oracle Learning Management,Oracle Learning Management
+Figure 20,Microsoft Active Directory,Microsoft Active Directory
+Figure 20,Microsoft Office,Microsoft Office
+Figure 20,Microsoft Excel,Microsoft Excel
+Figure 20,Microsoft Word,Microsoft Word
+Figure 20,JavaScript,JavaScript
+Figure 20,Amazon Web Services (AWS),Amazon Web Services
+Figure 20,SQL (Structured query language),SQL
+Figure 20,Tableau,Tableau
+Figure 22,Occupational Skills,Compétences professionnelles
+Figure 22,Social-Emotional Skills,Compétences socioémotionnelles
+Figure 22,Technologies,Technologies
+Figure 22,Tools and Equipment,Outils et matériel
+Figure 22,Digital intensity of skill sub-group,Intensité numérique du sous-groupe de compétences
+Figure 22,"Health, safety and environmental skills","Compétences en santé, sécurité et environnement"
+Figure 22,Instant messaging software,Logiciel de messagerie instantanée
+Figure 22,Financial analysis software,Logiciel d’analyse financière
+Figure 22,Video conferencing software,Logiciel de vidéoconférence
+Figure 22,Information Technology and telecommunications,Technologies de l’information et logiciels de télécommunications
+Figure 22,Health and safety,Compétences en santé et sécurité
+Figure 22,Personal qualities,Qualités personnelles
+Figure 22,Interpersonal,Aptitudes interpersonnelles
+Figure 22,Languages,Compétences linguistiques
+Figure 22,Helpdesk or call center software,Logiciel de soutien technique ou de centre d’appels
+Figure 22,Business intelligence and data analysis software,Logiciel de veille stratégique et d’analyse de données
+Figure A.2,Digital General office-based skills and Non-digital Business and management skills,Compétences administratives générales numériques et compétences en affaires et en gestion non numériques
+Figure A.3,Digital High-tech skills and Non-digital Sales and merchandising skills,Compétences hautement technologiques numériques et compétences de vente et de mise en marché non numériques
+Figure 3,All skills by digital intensity,Toutes les compétences selon l’intensité numérique
+Figure 4,Clusters by digital intensity,Groupes selon l’intensité numérique
+Figure 5,Digital sub-clusters by digital intensity,Sous-groupes numériques selon l’intensité numérique
+Figure 6,Digital skills in the High-tech skills cluster,Compétences numériques du groupe de compétences hautement technologiques
+Figure 7,Digital skills in the Business and management (B&M) skills cluster,Compétences numériques du groupe de compétences en affaires et gestion
+Figure 8,Digital skills in the General office-based skills cluster,Compétences numériques du groupe de compétences administratives générales
+Figure 9,Digital skills in the Communication and interaction (C&I) skills cluster,Compétences numériques du groupe de compétences en communication et interaction
+Figure 10,Digital skills in the Trades skills cluster,Compétences numériques du groupe de compétences liées aux métiers
+Figure 11,Digital skills in the Sales and merchandising skills cluster,Compétences numériques du groupe de compétences en vente et mise en marché
+Figure 12,Digital intensity of hybrid skills pairs,Intensité numérique de paires de compétences hybrides
+Figure 13,Digital intensity of hybrid skills pairs,Intensité numérique de paires de compétences hybrides
+Figure 14,Digital intensity of Software/Product development & data skills,Intensité numérique – développement de logiciels et de produits et gestion de données
+Figure 15,Digital intensity of Cybersecurity & system infrastructure skills,Intensité numérique – cybersécurité et infrastructure des systèmes
+Figure 16,Digital intensity of Industrial modelling & geospatial software skills,Intensité numérique – modélisation industrielle et logiciels géospatiaux
+Figure 17,Digital intensity of Design and marketing skills,Intensité numérique – conception et marketing
+Figure 18,Digital intensity of Workforce digital skills,Intensité numérique – compétences numériques générales
+Figure 20,Growth of digital skills during the pandemic (2019 to 2021),Croissance des compétences numériques pendant la pandémie (2019-2021)
+Figure 22,Growth of skills sub-groups during the pandemic (2019 to 2021),Croissance des sous-groupes de compétences pendant la pandémie (2019-2021)
+Figure A.1,"All digital skills, shown by digital intensity and growth during the pandemic","Toutes les compétences numériques, selon leur intensité numérique et leur croissance pendant la pandémie"
+Figure A.2,Digital intensity of hybrid skills pairs,Intensité numérique de paires de compétences hybrides
+Figure A.3,Digital intensity of hybrid skills pairs,Intensité numérique de paires de compétences hybrides
+Figure 22,Vicinity Jobs Skills Groups,Groupes de compétences de Vicinity Jobs
+Figure 1,Each dot is a skill,Chaque point désigne une compétence
+Figure 1,Technology skills,Compétences technologiques
+Figure 1,Other skills,Autres compétences
+Figure 1,"A digital skill is a skill that is either categorized as a Technology skill by Vicinity Jobs, or skill in other categories that are highly digitally intense.",Une compétence numérique est une compétence qui est classée comme une compétence technologique par Vicinity Jobs ou une compétence d’une autre catégorie à intensité numérique élevée.
+Figure 2,All skills,Toutes les compétences
+Figure 2,Digital skills,Compétences numériques
+Figure 2,"Skills clusters are defined for around 5,000 skills (including digital skills)",Des groupes de compétences sont établis pour environ 5 000 compétences (incluant les compétences numériques).
+Figure 2,"Digtial sub-clusters are defined just for around 2,200 digital skills",Des sous-groupes numériques sont établis pour environ 2 200 compétences numériques.
